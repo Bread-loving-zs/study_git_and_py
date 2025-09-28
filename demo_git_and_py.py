@@ -1,2 +1,3 @@
 book = "Zeng Shuai is a good man!"
-print
+print(book)
+print("ZSYYDS")
