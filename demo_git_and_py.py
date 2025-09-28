@@ -1,2 +1,2 @@
-book = "Zeng Shuai is SB"
-print(book)
+book = "Zeng Shuai is a good man!"
+print
